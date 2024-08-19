@@ -1,0 +1,17 @@
+{
+    "name": "okami-chen/database",
+    "description": "List of 75 languages for Laravel.",
+    "keywords": [
+        "laravel",
+        "languages",
+        "i18n",
+        "locale",
+        "overtrue"
+    ],
+    "autoload": {
+        "psr-4": {
+            "OkamiChen\\Database\\": "src/"
+        }
+    },
+    "license": "MIT"
+}
